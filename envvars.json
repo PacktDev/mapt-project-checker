@@ -1,0 +1,18 @@
+{
+	"dev": {
+		"projectListUrl": "https://mapt.packt-cdn.com/projects-test.json",
+		"v2BaseUrl": "https://dev.packtpub.com/mapt-rest"
+	},
+	"qa": {
+		"projectListUrl": "https://mapt.packt-cdn.com/projects-test.json",
+		"v2BaseUrl": "https://qa.packtpub.com/mapt-rest"
+	},
+	"rc": {
+		"projectListUrl": "https://mapt.packt-cdn.com/projects-list.json",
+		"v2BaseUrl": "https://rc.packtpub.com/mapt-rest"
+	},
+	"prod": {
+		"projectListUrl": "https://mapt.packt-cdn.com/projects-list.json",
+		"v2BaseUrl": "https://www.packtpub.com/mapt-rest"
+	}
+}
